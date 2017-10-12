@@ -3,6 +3,7 @@ layout : default
 title : What IS on the Menu!
 ---
 
+
 # CS498 : Data Visualization Final Project 
 
 #### Summer 2017  
@@ -12,11 +13,11 @@ title : What IS on the Menu!
 
 ## About
 
-The aim of this project is to use the popular JavaScript Visualization library [D3.js](d3js.org) for effectively communicating a story with Data. 
+The aim of this project is to use the popular JavaScript Visualization library [D3.js](https://d3js.org) for effectively communicating a story with Data. 
 
 ## The Dataset
 
-The dataset is borrowed from [NYPL](nypl.menus.org). This Dataset contains __Menu__ information for various menus collected over the years from varied places across the United States. 
+The dataset is borrowed from [NYPL](https://nypl.menus.org). This Dataset contains __Menu__ information for various menus collected over the years from varied places across the United States. 
 
 ## The visualization
 
