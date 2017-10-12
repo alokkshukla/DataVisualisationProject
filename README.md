@@ -9,11 +9,11 @@
 
 ## About
 
-The aim of this project is to use the popular JavaScript Visualization library [D3.js](d3js.org) for effectively communicating a story with Data. 
+The aim of this project is to use the popular JavaScript Visualization library [https://D3.js](d3js.org) for effectively communicating a story with Data. 
 
 ## The Dataset
 
-The dataset is borrowed from [NYPL](nypl.menus.org). This Dataset contains __Menu__ information for various menus collected over the years from varied places across the United States. 
+The dataset is borrowed from [NYPL](https://nypl.menus.org). This Dataset contains __Menu__ information for various menus collected over the years from varied places across the United States. 
 
 ## The visualization
 
