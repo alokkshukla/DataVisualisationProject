@@ -17,4 +17,4 @@ The dataset is borrowed from [NYPL](nypl.menus.org). This Dataset contains __Men
 
 ## The visualization
 
-Please navigate to http://alokks2.web.engr.illinois.edu/cs498/#/ for demo or browse code on GitHub.
+Please navigate to <http://alokks2.web.engr.illinois.edu/cs498/#/> for demo or browse code on GitHub.
