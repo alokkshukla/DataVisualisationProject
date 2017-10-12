@@ -4,7 +4,7 @@
 
 #### Summer 2017  
 
-- [Alok K. Shukla](mailto:alokks2@illinois.edu?Subject=CS598Project)
+- [Alok K. Shukla](mailto:alokks2@illinois.edu?Subject=CS498Project)
 
 
 ## About
