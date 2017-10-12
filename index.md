@@ -1,7 +1,4 @@
----
-layout : default
-title : CS498 Final Project
----
+
 
 ## CS498 : Data Visualization Final Project 
 
