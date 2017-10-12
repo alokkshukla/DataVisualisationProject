@@ -4,6 +4,7 @@
 
 #### Summer 2017  
 
-**Alok K. Shukla** _alokks2@illinois.edu_ 
+- [Alok K. Shukla](mailto:alokks2@illinois.edu?Subject=CS598Project)
+
 
 Please navigate to http://alokks2.web.engr.illinois.edu/cs498/#/ for demo or browse code on GitHub.
